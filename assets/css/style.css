@@ -1,0 +1,167 @@
+/*!
+ * pribel-ro02
+ * Free HTML Pricing Table - Bootstrap 4 Template #2
+ * git+https://github.com/koolui/pribel-ro02.git
+ * @author Kool UI Studio
+ * @version 1.0.0
+ * Copyright 2019. SEE LICENSE IN README.md licensed.
+ */
+.adscard {
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.3);
+  margin: 15px auto;
+  width: 100%;
+  max-width: 360px;
+  border-radius: 6px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.5); }
+  .adscard:after {
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    content: "Affiliate";
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    padding: 3px 5px;
+    border-radius: 0 5px;
+    font-size: 10px; }
+  .adscard--live {
+    margin-top: 40px;
+    margin-bottom: 40px; }
+  .adscard__img {
+    border-radius: 3px; }
+    .adscard__img img {
+      width: 80px;
+      border-radius: 3px; }
+  .adscard__caption {
+    margin: 0;
+    line-height: 16px;
+    font-size: 14px;
+    padding: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .adscard__caption a {
+      text-decoration: none;
+      color: #ffffff; }
+      .adscard__caption a:hover {
+        text-decoration: underline; }
+    .adscard__caption span {
+      display: block; }
+    .adscard__caption__secondary {
+      font-size: 12px;
+      margin-top: 5px; }
+      .adscard__caption__secondary > a {
+        color: rgba(255, 255, 255, 0.7); }
+
+.livedemo {
+  padding-top: 80px; }
+  .livedemo nav .form-inline .btn {
+    margin-right: 6px; }
+    .livedemo nav .form-inline .btn:last-child {
+      margin-right: 0; }
+  .livedemo .footerdemo {
+    padding: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    margin-top: 30px;
+    color: #ffffff; }
+    .livedemo .footerdemo a {
+      color: #ffffff;
+      text-decoration: underline; }
+
+body {
+  font-size: 16px;
+  color: #222827;
+  background-color: #00b09b;
+  background: #00b09b;
+  background: -webkit-gradient(linear, left top, right top, from(#95C623), to(#00b09b));
+  background: -o-linear-gradient(left, #95C623, #00b09b);
+  background: linear-gradient(to right, #95C623, #00b09b); }
+
+.koolui-pribel-ro02 {
+  font-family: "Barlow", sans-serif;
+  padding: 60px 0; }
+  .koolui-pribel-ro02 .item {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+    text-align: center; }
+    @media screen and (min-width: 992px) {
+      .koolui-pribel-ro02 .item {
+        margin-bottom: 0; } }
+    .koolui-pribel-ro02 .item__media {
+      width: 90px;
+      height: 90px;
+      margin: 0 auto 30px;
+      display: block;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+      .koolui-pribel-ro02 .item__media img {
+        width: auto;
+        max-width: 100%;
+        max-height: 100%; }
+    .koolui-pribel-ro02 .item__heading h3 {
+      font-size: 1.125rem;
+      font-weight: 500;
+      line-height: 1.25rem;
+      margin: 0;
+      margin-bottom: 20px;
+      position: relative; }
+      .koolui-pribel-ro02 .item__heading h3:after {
+        background-color: #FFD23F;
+        width: 60px;
+        height: 2px;
+        border-radius: 1px;
+        content: "";
+        bottom: -6px;
+        left: 50%;
+        margin-left: -30px;
+        position: absolute; }
+    .koolui-pribel-ro02 .item__content ul {
+      margin: 0;
+      padding: 0;
+      margin-bottom: 20px;
+      list-style: none; }
+      .koolui-pribel-ro02 .item__content ul li {
+        line-height: 30px;
+        color: #8898A7;
+        margin: 0;
+        font-size: .875rem; }
+    .koolui-pribel-ro02 .item__pricing p {
+      margin-bottom: 30px;
+      font-size: 2rem;
+      font-weight: 500;
+      line-height: 2.375rem; }
+      .koolui-pribel-ro02 .item__pricing p small {
+        display: block;
+        font-size: .75rem;
+        line-height: .875rem;
+        margin: 0; }
+    .koolui-pribel-ro02 .item .btn.btn-primary {
+      background-color: #95C623;
+      border-color: #95C623;
+      color: #ffffff;
+      height: 44px;
+      border-radius: 22px;
+      font-weight: 700;
+      font-size: .875rem; }
+      .koolui-pribel-ro02 .item .btn.btn-primary:hover {
+        background-color: #85b01f;
+        border-color: #85b01f; }
