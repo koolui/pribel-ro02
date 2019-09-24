@@ -2,7 +2,7 @@
 #  HTML Pricing Table 02
 
 This HTML includes HTML files, stylesheets, all supporting image and JS assets, and optional SASS sources. We hope you have found this HTML freebie not only inspiring but also fit and useful for your project. <br><br>
-[**[Live demo](https://koolui.github.io/pribel-ro02/)**] ~ [**[Download .sketch file](https://freehtmldesign.blogspot.com/2019/09/pricing-table-best-for-travel-agency-2_19.html)**] ~ [**[Buy me a coffee](https://ko-fi.com/ariecupu)**]
+[**[Live demo](https://koolui.github.io/pribel-ro02/)**] ~ [**[Download .sketch file](http://freehtmldesign.com/2019/09/pricing-table-best-for-travel-agency-2_19.html)**] ~ [**[Buy me a coffee](https://ko-fi.com/ariecupu)**]
 
 ## How to use :
 Clone or download repository
